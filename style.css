@@ -1,0 +1,85 @@
+html{
+  height:100%;
+  background-image:
+url('https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+background-size:cover;
+}
+
+#banner{
+  padding-top:22%;
+  font-family:'Pangolin',cursive;
+  font-size:35px;
+  display:flex;
+  justify-content:center;
+  color:#e0edff;
+}
+
+#heading{
+  height:100%;
+  font-family:'Open Sans Condensed', sans-serif;
+  display:flex;
+  justify-content:space-around;
+  color:#00688b;
+}
+
+h2 {
+  background: red;
+}
+.navbar {
+  display: flex;
+  justify-content:space-around;
+  background-color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page*/
+  left: 0;
+  width: 100%; /* Full width */
+}
+.navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #9370DB;
+}
+
+#about-content{
+  display: flex;
+  justify-content:space-around;
+  margin-top:22%;
+}  
+#about-content{
+ display:flex;
+ justify-content:space-around;
+ margin-top:22%;
+
+}
+ 
+img {
+  border-radius:50%;
+  border:solid 5px #9370DB;
+}
+
+.my-description{
+  background:white;
+  margin:3%;
+  padding:4%;
+  font-family:'Montserrat',sans-serif;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}  
